@@ -964,7 +964,7 @@ form {
 .project-container {
   display: flex;
   gap: 20px;
-  width: 90%;
+  width: 80%;
 }
 
 .project-link {
@@ -986,7 +986,7 @@ form {
 }
 
 .sark-project img {
-  width: 320px;
+  width: 300px;
   height: auto;
 }
 
@@ -1004,7 +1004,7 @@ form {
 }
 
 .my-portfolio img {
-  width: 310px;
+  width: 280px;
   height: auto;
 }
 
@@ -1022,7 +1022,7 @@ form {
 }
 
 .fintech-project img {
-  width: 300px;
+  width: 280px;
   height: auto;
 }
 
