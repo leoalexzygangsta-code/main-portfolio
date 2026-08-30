@@ -1146,7 +1146,7 @@ form {
 .about-container {
   display: flex;
   gap: 30px;
-  height: 90vh; /* Keeps height contained for scroll functionality */
+  height: 95vh; /* Keeps height contained for scroll functionality */
 
 }
 
