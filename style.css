@@ -321,7 +321,7 @@ body {
 }
 
 .hero-section {
-    padding: 100px 80px;
+    padding: 100px 70px;
    display: flex;
    justify-content: space-between;
    align-items: center;
@@ -332,7 +332,7 @@ h1 {
     color: var(--h1-color) !important;
     color: white;
     font-family: "inter", sans-serif;
-    font-size: 60px;
+    font-size: 55px;
     font-weight: bolder;
     line-height: 70px;
     letter-spacing: -2px;
@@ -412,8 +412,8 @@ h1 {
 }
 
 .hero-img {
-    width:50%;
-  max-width: 90%;border-radius: 50%; aspect-ratio: 1/1;
+    width:40%;
+  border-radius: 50%; aspect-ratio: 1/1;
   object-fit: cover;
   width: 500px;
   height: auto;
