@@ -412,6 +412,7 @@ h1 {
 }
 
 .hero-img {
+    width:50%;
   max-width: 90%;border-radius: 50%; aspect-ratio: 1/1;
   object-fit: cover;
   width: 500px;
